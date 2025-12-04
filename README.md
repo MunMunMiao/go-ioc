@@ -1,5 +1,9 @@
 # go-ioc
 
+<p>
+    <a href="https://deepwiki.com/MunMunMiao/go-ioc"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+</p>
+
 A lightweight, type-safe dependency injection container for Go, leveraging Go 1.18+ generics.
 
 ## Installation
